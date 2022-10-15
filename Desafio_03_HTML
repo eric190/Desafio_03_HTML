@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+ <head>
+        <meta charset="UTF-8">
+        <title>Abas de navegação</title>
+        
+        <link rel="stylesheet" href="style.css">
+ </head>
+
+    <body>
+        <header>
+
+        <header>
+
+        <main>
+        	<nav class="nav_tabs">
+            <ul>
+              <li>
+            <input type="radio" id="tab1" class="rd_tab" name="tabs" checked>
+            <label for="tab1" class="tab_label">Tab 1</label>
+            <div class="tab-content">
+                <h2>Home</h2>
+                <article>
+                	Aqui é onde mostraremos o produto da nossa empresa: Nossa empresa tem como objetivo oferecer soluções técnologicas que facilitam a vida, por meio de automações e processos deixados mais rápidos com o uso da tecnologia, poupando muito do seu tempo e te deixando livre para aproveitar esse tempo de maneira melhor.
+
+                </article>
+            </div>
+        </li>
+        <li>
+            <input type="radio" name="tabs" class="rd_tab" id="tab2">
+            <label for="tab2" class="tab_label">Tab 2</label>
+            <div class="tab-content">
+                <h2>Contato</h2>
+                <article>
+                	Aqui está disponibilizado os meios de contato para chegar até nós: 
+                	Telefone: 11 95852 4582
+                	e-mail: nossaempresa@uorak.com
+                </article>
+
+            </div>
+        </li>
+        <li>
+            <input type="radio" name="tabs" class="rd_tab" id="tab3">
+            <label for="tab3" class="tab_label">Tab 3</label>
+            <div class="tab-content">
+                <h2>Curiosidades sobre nós</h2>
+                <article>
+                	Somos uma empresa que temos nosso lucro revertido para instituições que ajudam pessoas necessitadas assim atingindo o nosso objetivo ajudar o máximo de pessoas possíveis.
+                </article>
+              </div>
+             </li>
+            </ul>
+           </nav>
+
+        </main>
+
+
+          <footer>
+
+          </footer>
+
+     <body>
+
+ </html>
+
+
+
